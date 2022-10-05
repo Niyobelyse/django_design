@@ -1,0 +1,163 @@
+.logo
+{
+    float: left;
+    padding-top: 20px;
+}
+.linklogos
+{
+    float: right;
+    padding-top: 20px;
+}
+.afrilogo
+{
+    width: 120px;
+}
+h1
+{
+    font-weight: 700;
+    padding-top: 50px;
+}
+.head{
+    padding-top: 150;
+    text-align: center;
+    font-size: 60;
+    font-weight: 700;
+}
+.button
+{
+    text-align: center;
+    padding-top: 10px;
+}
+button
+{
+    background-color: #29bc68;
+    border-color: #29bc68;
+    border-radius: 2.7px;
+    color: white;
+    border: none;
+    padding: 8px;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+a:hover
+{
+    color: white;
+}
+.btnimg
+{
+  width: 20px;  
+}
+.mission
+{
+    padding-top: 10px;
+}
+#headmission
+{
+    padding-top: 0%;
+    font-weight: 700;
+}
+.missionpic
+{
+    border-radius: 4%;
+}
+#akazu1
+{
+    background-color: #eafaf1;
+    border-radius: 10px;
+    margin: 15px;
+    height: 300px;
+    width: 350px;
+    box-shadow: 0px 10px #96e8b9;
+}
+#akazu2
+{
+    background-color: #fce8e8;
+    border-radius: 10px;
+    margin: 15px;
+    height: 300px;
+    width: 350px;
+    box-shadow: 0px 10px #ed6464;
+}
+#akazu3
+{
+    background-color: #fdf8e7;
+    border-radius: 10px;
+    margin: 15px;
+    height: 300px;
+    width: 350px;
+    box-shadow: 0px 10px #f5d470;
+}
+.marana
+{
+    font-size: 19px;
+    padding: 12px;
+}
+.league1
+{
+    padding-bottom: 10px;
+}
+.amagambo
+{
+    padding-top: 110px;
+    padding-left: 120px;
+}
+.amagambo1
+{
+    color: gray;
+    font-size: 20px;
+}
+.krypto
+{
+    font-weight: 700;
+}
+.lass
+{
+    color: gray;
+    font-size: 18px;
+}
+.community
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.communityimg
+{
+    padding-top: 100px;
+}
+.logos
+{
+    float: left;
+}
+.final
+{
+    float: right;
+    /* padding-bottom: 100px; */
+}
+.footerr
+{
+    text-align: center;
+    color: gray;
+}
+#spin:hover {
+    transition: .5s;
+     transform: rotate(360deg);
+}
+.pikture
+{
+  
+    background-repeat: no-repeat;
+    background-size: 1500px 780px;
+}
+#kryptonite
+{
+    padding-left: 20px;
+}
+
+#guideline
+{
+    padding-top: 250px;
+    padding-left: 40px;
+}

@@ -1,0 +1,30 @@
+		 
+		form{
+			background-color: white;
+			width: 350px;
+			height:450px;
+			margin-top: 200px;
+			margin-left: 600px;
+			border-radius: 18px;
+		}
+		input{
+			margin-left: 20px;
+			margin-top: 15px;
+			border-radius: 6px;
+			letter-spacing: 3px;
+			width: 303px;
+            height: 36px;
+            background-color: #34363436;
+
+		}
+
+
+		p{
+			margin-left: 20px;
+
+		}
+		
+		span{
+			color: black;
+			font-size: 25px;
+		}
